@@ -1,7 +1,7 @@
 # Azure Dev Day
 
 ## The Workshop
-The Workshop Complimentary for Azure AI Services
+The Workshop Complimentary for Azure Services
 
 ## 1.Developing a Website using Azure DevOps and App Services
 * [Document](https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-aspnet-core)
@@ -47,5 +47,5 @@ dotnet run
 
 ## Useful links
 * [Digital Thailand Club](https://www.facebook.com/digitalthailandclub)
-* [Microsoft Azure pass](https://www.microsoftazurepass.com/)
 * [Saladpuk](https://saladpuk.gitbook.io/learn)
+* [Microsoft Azure pass](https://www.microsoftazurepass.com/)
