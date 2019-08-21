@@ -7,7 +7,8 @@ The Workshop Complimentary for Azure AI Services
 * [Document](https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-aspnet-core)
 
 ## 2.Developing an API using Azure Functions & API Management
-* [Document](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-azure-function)
+* [Azure Functions Document](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-vs-code)
+* [API Management Document](https://docs.microsoft.com/en-us/azure/api-management/get-started-create-service-instance)
 
 ## 3.Build AI into your app using Cognitive Services
 ### 3.1.Analyze an image (Computer Vision)
