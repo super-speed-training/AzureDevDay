@@ -34,6 +34,7 @@ dotnet restore
 ## Tools
 * [.NET Core](https://dotnet.microsoft.com/download)
 * [Visual Studio Code](https://code.visualstudio.com)
+* [Git for Windows](https://gitforwindows.org)
 
 ## .NET Commands
 **Create project**
