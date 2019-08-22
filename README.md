@@ -1,5 +1,8 @@
 # Azure Dev Day
 
+## Slides & Video
+* [Slide](https://github.com/super-speed-training/AzureDevDay/blob/master/Azure_DevOps_Customer.pdf)
+
 ## The Workshop
 The Workshop Complimentary for Azure Services
 
